@@ -151,7 +151,7 @@ Pod::Spec.new do |spec|
   #   #   main_spec.vendored_frameworks = 'UIKit/iOS/ZegoUIKit.xcframework'
   #   # end
   # end
-  spec.dependency 'ZegoExpressEngine','~>3.2.0'
+  spec.dependency 'ZegoExpressEngine','~>3.5.0'
   spec.dependency 'ZegoPluginAdapter', '>=2.1.0'
 
 end
